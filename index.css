@@ -1,0 +1,39 @@
+#gabagool {
+    text-align: center;
+    color: #FFFFFF;
+font-family: Georgia, bold;
+border-collapse: collapse;
+width: 100%;
+}
+
+#gabagool td, #gabagool th {
+border: 1px solid #D3D3D3;
+padding: 7px;
+}
+#gabagool th {
+    background-color: #00008b;
+
+
+}
+#gabagool td {
+    background-color: #FF0000
+
+
+}
+
+#zippo table{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+color: #FFFFFF;
+border-collapse: collapse;
+width: 100%;
+border: 1px solid #D3D3D3;
+padding:7px;
+}
+
+#zippo th {
+    background-color: #66ff00;
+}
+#zippo td {
+background-color: #a9a9a9;
+}
